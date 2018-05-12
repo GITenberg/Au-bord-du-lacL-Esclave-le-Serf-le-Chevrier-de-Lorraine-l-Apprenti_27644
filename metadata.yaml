@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '1351'
     url: http://www.gutenberg.org/2009/agents/1351
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27644#Au-bord-du-lacL-Esclave-le-Serf-le-Chevrier-de-Lorraine-l-Apprenti
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2008-12-28'
 gutenberg_type: Text
